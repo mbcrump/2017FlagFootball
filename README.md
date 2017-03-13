@@ -25,16 +25,24 @@
 ### April 2017
 
 Sat 1	1:00pm - Giants (Home)
+
 Sat 15	11:00am - Dolphins (Home)
+
 Sat 15	1:00pm	- Packers (Home)
+
 Sat 22	1:00pm	- Bears (Away)
+
 Sat 29	1:00pm	- Panthers (Away)
+
 
 ### May 2017
 
 Sat 6	12:00pm	- Buccaneers NC (Home)
+
 Sat 13	11:00am	- Bills (Away)
+
 Sat 20	12:00pm	- Steelers NC (Home)
+
 
 ## Map of Marymoor Park
 ![Marymoor Park](https://github.com/mbcrump/2017FlagFootball/blob/master/marymoorpark.png "Map")
