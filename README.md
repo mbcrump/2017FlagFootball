@@ -27,3 +27,6 @@
 * 3rd and 4th Grade - Either a 12pm or 1pm Game with practice 60 minutes before the game.
 * 5th and 6th Grade - Either a 2pm or 3pm Game with practice 60 minutes before the game
 * 7th and 8th Grade - 3pm Game with practice 60 minutes before the game 
+
+## Map of Marymoor Park
+![Marymoor Park](https://github.com/mbcrump/2017FlagFootball/blob/master/marymoorpark.png "Map")
