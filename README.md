@@ -30,4 +30,4 @@
 
 ## Map of Marymoor Park
 ![Marymoor Park](https://github.com/mbcrump/2017FlagFootball/blob/master/marymoorpark.png "Map")
-(http://aeglive-marymoorconcerts.s3.amazonaws.com/doc/marymoor_park_map_web_09.pdf)[High Resolution Version)
+(http://aeglive-marymoorconcerts.s3.amazonaws.com/doc/marymoor_park_map_web_09.pdf)[High Resolution Version]
