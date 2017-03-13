@@ -24,24 +24,27 @@
 
 ### April 2017
 
-Sat 1	1:00pm - Giants (Home)
+1	1:00pm - Giants (Home)
 
-Sat 15	11:00am - Dolphins (Home)
+15	11:00am - Dolphins (Home)
+15	1:00pm	- Packers (Home)
 
-Sat 15	1:00pm	- Packers (Home)
+22	1:00pm	- Bears (Away)
 
-Sat 22	1:00pm	- Bears (Away)
-
-Sat 29	1:00pm	- Panthers (Away)
+29	1:00pm	- Panthers (Away)
 
 
 ### May 2017
 
-Sat 6	12:00pm	- Buccaneers NC (Home)
+6	12:00pm	- Buccaneers NC (Home)
 
-Sat 13	11:00am	- Bills (Away)
+13	11:00am	- Bills (Away)
 
-Sat 20	12:00pm	- Steelers NC (Home)
+20	12:00pm	- Steelers NC (Home)
+
+## Get the App
+
+I would highly recommend the following app to see the current schedule and what field, etc that we are playing on. http://www.korrio.com/mobile-app/
 
 
 ## Map of Marymoor Park
