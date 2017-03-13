@@ -20,13 +20,21 @@
 * Coaches Clinic is Monday March 20th at Marymoor Park Field 7 from 630pm to 730pm.
 * Plan on hearing from your coach the week of March 20th.
 
-## Schedule Guidance for Games
+## Schedule 
 
-* Pre K and Kindergarten - Games at 1030am with practice 45 minutes before the game.
-* 1st and 2nd Grade: Games at 11am with practice 60 minutes before the game.
-* 3rd and 4th Grade - Either a 12pm or 1pm Game with practice 60 minutes before the game.
-* 5th and 6th Grade - Either a 2pm or 3pm Game with practice 60 minutes before the game
-* 7th and 8th Grade - 3pm Game with practice 60 minutes before the game 
+### April 2017
+
+Sat 1	1:00pm - Giants (Home)
+Sat 15	11:00am - Dolphins (Home)
+Sat 15	1:00pm	- Packers (Home)
+Sat 22	1:00pm	- Bears (Away)
+Sat 29	1:00pm	- Panthers (Away)
+
+### May 2017
+
+Sat 6	12:00pm	- Buccaneers NC (Home)
+Sat 13	11:00am	- Bills (Away)
+Sat 20	12:00pm	- Steelers NC (Home)
 
 ## Map of Marymoor Park
 ![Marymoor Park](https://github.com/mbcrump/2017FlagFootball/blob/master/marymoorpark.png "Map")
