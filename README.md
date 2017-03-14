@@ -46,7 +46,7 @@
 
 ## <a name="gettheapp"></a>Get the App
 
-I would highly recommend the following app to see the current schedule and what field, etc that we are playing on. http://www.korrio.com/mobile-app/
+I would highly recommend the following app to see the current schedule and what field, etc that we are playing on. http://www.korrio.com/mobile-app/ Be sure to create an account first on https://pick6sports.com/.
 
 
 ## <a name="map"></a>Map of Marymoor Park
