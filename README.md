@@ -1,4 +1,4 @@
-# 2017 Flag Football - Marymore Park
+# 2017 Flag Football - Maryoor Park
 
 [Key Dates](#keydates) | [Key Dates Explained](#keydates1) | [Schedule](#schedule) | [Get the app](#gettheapp)  | [Map of Marymoor park](#map) 
 
