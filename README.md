@@ -26,23 +26,23 @@
 
 ### April 2017
 
-1	1:00pm - Giants (Home)
+1	1:00pm - Giants (Home) **L**
 
-15	11:00am - Dolphins (Home)
-15	1:00pm	- Packers (Home)
+15	11:00am - Dolphins (Home) **W**
+15	1:00pm	- Packers (Home) **W**
 
-22	1:00pm	- Bears (Away)
+22	1:00pm	- Bears (Away) **W**
 
-29	1:00pm	- Panthers (Away)
+29	1:00pm	- Panthers (Away) **W**
 
 
 ### May 2017
 
-6	12:00pm	- Buccaneers NC (Home)
+6	12:00pm	- Buccaneers (Home) **L**
 
-13	11:00am	- Bills (Away)
+13	11:00am	- Dolphins **W**
 
-20	12:00pm	- Steelers NC (Home)
+20	12:00pm	- Buccaneers (Home)
 
 ## <a name="gettheapp"></a>Get the App
 
