@@ -42,7 +42,9 @@
 
 13	11:00am	- Dolphins **W**
 
-20	12:00pm	- Buccaneers (Home)
+20	12:00pm	- Buccaneers (Home) **L** by 2 points
+
+Did not make playoffs. 
 
 ## <a name="gettheapp"></a>Get the App
 
